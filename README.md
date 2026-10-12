@@ -32,8 +32,6 @@ Copyright 2026 Sytera Labs
 
 A local shelf for games. The catalogue is the file shelf-data.json in this copy's folder. Another folder with its own copy does not see it. There is no account. The catalogue is not sent anywhere.
 
-Version 1.4.5.
-
 The program is released under the Apache License, Version 2.0. The license is the English file LICENSE next to this file. That English text is the license. A translation, if the program shows one, is for convenience only.
 
 If you give someone a copy of the program, give them LICENSE and NOTICE as well.
