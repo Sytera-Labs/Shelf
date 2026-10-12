@@ -1,0 +1,17 @@
+node_modules/
+.vercel/
+.grok/
+dist/
+artifacts/
+screenshots/
+public/__grok/
+server/
+scripts/grok-*
+AGENTS.md
+*.exe
+*.dll
+*.pak
+*.bin
+*.dat
+resources/
+locales/

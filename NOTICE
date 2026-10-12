@@ -1,0 +1,28 @@
+Shelf
+Copyright 2026 Sytera Labs
+
+This program is licensed under the Apache License, Version 2.0.
+The license is the English text in the file LICENSE, next to this notice.
+A translation, if one is shown in the program, is only a convenience.
+The English text is the license.
+
+If you pass a copy of this program to anyone else, pass LICENSE and this
+NOTICE with it.
+
+Noto Sans
+Copyright Google Inc.
+Licensed under the SIL Open Font License, Version 1.1.
+The license text is in the file NotoSans-OFL.txt next to this notice.
+The reserved font name is not the name of this program.
+
+Shelf Grotesk
+Copyright 2026 Sytera Labs
+Original type included with this program.
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The program window includes Electron and Chromium.
+Their notices stay in this folder, under their own names:
+LICENSE.electron and LICENSES.chromium.html.
+
+Other software included with this program keeps its own copyright
+and license notices. Those notices are in THIRD-PARTY-NOTICES.txt.
