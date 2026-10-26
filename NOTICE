@@ -1,28 +1,34 @@
 Shelf
 Copyright 2026 Sytera Labs
 
-This program is licensed under the Apache License, Version 2.0.
+This source is licensed under the Apache License, Version 2.0.
 The license is the English text in the file LICENSE, next to this notice.
-A translation, if one is shown in the program, is only a convenience.
-The English text is the license.
 
-If you pass a copy of this program to anyone else, pass LICENSE and this
-NOTICE with it.
+If you pass a copy of this source, or a program built from it, to anyone else,
+pass LICENSE and this NOTICE with it.
 
 Noto Sans
 Copyright Google Inc.
 Licensed under the SIL Open Font License, Version 1.1.
-The license text is in the file NotoSans-OFL.txt next to this notice.
+The license text is in public/fonts/NotoSans-OFL.txt.
 The reserved font name is not the name of this program.
+
+Manrope
+Copyright 2018 The Manrope Project Authors (https://github.com/googlefonts/manrope)
+Licensed under the SIL Open Font License, Version 1.1.
+The license text is in public/fonts/Manrope-OFL.txt.
 
 Shelf Grotesk
 Copyright 2026 Sytera Labs
 Original type included with this program.
 Licensed under the Apache License, Version 2.0. See LICENSE.
+The note is in public/fonts/SHELF-GROTESK.txt.
 
-The program window includes Electron and Chromium.
-Their notices stay in this folder, under their own names:
-LICENSE.electron and LICENSES.chromium.html.
+The Windows program built from this source also contains React, React DOM and
+Zustand. Their notices are in THIRD-PARTY-NOTICES.txt. The Rust window is built
+with the crates named in core/Cargo.toml and core/Cargo.lock. Those crates keep
+their own licenses, mostly Apache-2.0 or MIT.
 
-Other software included with this program keeps its own copyright
-and license notices. Those notices are in THIRD-PARTY-NOTICES.txt.
+The Windows archive also includes WebView2Loader.dll from Microsoft.
+That file is not part of this source and is not covered by the Apache License.
+The shelf page is drawn by the WebView2 component already present on Windows.
